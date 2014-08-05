@@ -11,5 +11,5 @@ libraryDependencies ++= Seq(
   javaEbean,
   cache,
   javaWs,
-  "junit" % "junit" % "4.11"
+  "junit" % "junit" % "4.8"
 )
